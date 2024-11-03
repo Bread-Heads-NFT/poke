@@ -1,6 +1,6 @@
-# Mpl Project Name
+# Bgh Poke
 
-My project description
+Poking on Solana
 
 ## Building
 
